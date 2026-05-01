@@ -45,7 +45,8 @@ de fret maritime → **Rejetée** (r = 0,057 à 0,092)
 - kaleido (pour l'export des graphiques en PNG)
 
 ## Utilisation
-1. Cloner le repository
-2. Placer tous les fichiers Excel dans le même dossier que les scripts Python
-3. Lancer mémoireh1.py pour le test de H1
-4. Lancer mémoireh2.py pour le teste de H2
+1. Cloner le repository ou télécharger les fichiers individuellement
+2. Pour télécharger les fichiers Excel, cliquer sur le fichier puis sur "View raw"
+3. Placer tous les fichiers Excel dans le même dossier que les scripts Python
+4. Lancer mémoireh2.py pour le test de H2
+5. Lancer mémoireh1.py pour le test de H1
