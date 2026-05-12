@@ -2,7 +2,6 @@
 
 © 2026 Camille Tuncq — IAE Nantes — Tous droits réservés
 Ce code est partagé à des fins de transparence académique uniquement.
-Toute réutilisation sans autorisation est interdite.
 
 ## Auteur
 Camille Tuncq — Master 1 Finance, Logistique et Maritime — IAE Nantes — 2025-2026
