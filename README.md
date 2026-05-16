@@ -1,10 +1,10 @@
 # Mémoire - La route du cacao entre la Côte d'Ivoire et l'Europe du Nord
 
-© 2026 Camille Tuncq — IAE Nantes — Tous droits réservés
+2026 Camille Tuncq - IAE Nantes - Tous droits réservés
 Ce code est partagé à des fins de transparence académique uniquement.
 
 ## Auteur
-Camille Tuncq — Master 1 Finance, Logistique et Maritime — IAE Nantes — 2025-2026
+Camille Tuncq - Master 1 Finance, Logistique et Maritime - IAE Nantes - 2025-2026
 
 ## Description
 Ce repository contient le code Python utilisé pour les analyses empiriques du mémoire :
@@ -18,18 +18,18 @@ et économique de la route Côte d'Ivoire – Europe du Nord ?
   ## Fichiers
 
 ### Code Python
-- `mémoireh1.py` — Test de H1 : corrélation entre volatilité annuelle et 
+- `mémoireh1.py` - Test de H1 : corrélation entre volatilité annuelle et 
 volumes exportés
-- `mémoireh2.py` — Test de H2 : analyse des prix du cacao, volatilité, 
+- `mémoireh2.py` - Test de H2 : analyse des prix du cacao, volatilité, 
 statistiques descriptives et corrélation avec le Baltic Dry Index
 
 ### Données
-- `US Cocoa Futures Historical Data.xlsx` — Prix journaliers du cacao 
-(ICE Futures US, 2010-2026) — Source : Investing.com
-- `Baltic Dry Index Historical Data.xlsx` — Données journalières du BDI 
-(2010-2026) — Source : Investing.com
-- `FAOSTAT_data_en_4-2-2026.xlsx` — Volumes annuels d'exportation de cacao 
-en fèves depuis la Côte d'Ivoire (2010-2024) — Source : FAOSTAT
+- `US Cocoa Futures Historical Data.xlsx` - Prix journaliers du cacao 
+(ICE Futures US, 2010-2026) - Source : Investing.com
+- `Baltic Dry Index Historical Data.xlsx` - Données journalières du BDI 
+(2010-2026) - Source : Investing.com
+- `FAOSTAT_data_en_4-2-2026.xlsx` - Volumes annuels d'exportation de cacao 
+en fèves depuis la Côte d'Ivoire (2010-2024) - Source : FAOSTAT
 
 ## Hypothèses testées
 - **H1** : Une hausse de la volatilité des prix du cacao entraîne une réduction 
