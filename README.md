@@ -13,7 +13,7 @@ des flux maritimes et des risques logistiques"
 
 ## Problématique
 Comment la volatilité des cours du cacao influence-t-elle la structuration logistique 
-et économique de la route Côte d'Ivoire – Europe du Nord ?
+et économique de la route Côte d'Ivoire - Europe du Nord ?
 
   ## Fichiers
 
